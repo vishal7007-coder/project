@@ -11,7 +11,7 @@
 // app.get("/", function(req,res){
 //     const n=req.query.n;
 //     const ans=sum(n);
-//     res.send("rishabh kumara tum bahut bhosadi wale ho tumhar cpmg me kyo nhi hua");
+//     res.send("hi there");
 // })
 // app.listen(3000);
 
